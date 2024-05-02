@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: app
-          image: olesia617/web-py:v0.0.2
+          image: olesia617/web-py:v0.0.3
           ports:
             - name: http 
               containerPort: 8080
